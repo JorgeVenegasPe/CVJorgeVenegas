@@ -852,7 +852,7 @@ header.sticky .nav-bar{
     }
     .home-container .home-img img{
         width: 65%;
-        transform: translate(80px, -180px);
+        transform: translate(80px, -160px);
     }
     .home .home-container .info{
         font-size: 0.8rem;
