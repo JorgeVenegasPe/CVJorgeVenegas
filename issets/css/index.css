@@ -851,8 +851,8 @@ header.sticky .nav-bar{
         position: absolute;
     }
     .home-container .home-img img{
-        width: 60%;
-        transform: translate(90px, -210px);
+        width: 65%;
+        transform: translate(70px, -90px);
 
     }
     .home .home-container .info{
