@@ -151,6 +151,7 @@ header.sticky .nav-bar{
 .home{
     position: relative;
     max-width: 1550px;
+    min-height: 100vh;
     margin-left: auto;
     margin-right: auto;
     padding: 4rem 2rem;
@@ -850,7 +851,7 @@ header.sticky .nav-bar{
         position: absolute;
     }
     .home-container .home-img img{
-        width: 6o%;
+        width: 60%;
         transform: translate(90px, -210px);
 
     }
